@@ -9,7 +9,7 @@
    PC installed with SCILAB/Python. 
 
 # PROGRAM: 
-```
+```python
 # ==============================
 # AUDIO DFT ANALYSIS IN COLAB
 # ==============================
